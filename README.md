@@ -6,8 +6,8 @@ Hexo theme: Apollo
 [Original](https://github.com/sanographix/tumblr/tree/master/apollo) (Tumblr theme)  
 [Demo](http://joyceim.github.io/hexo-theme-apollo)
 
-+ 添加了duoshuo，并且将评论框从正文左方移到了下方
-+ 添加了Mathjax，可以正markdown中输入LaTeX公式
++ 添加了duoshuo，并且将评论框从正文左侧移到了下方
++ 添加了Mathjax，可以在markdown中输入LaTeX公式
 
 
 ## Installation
@@ -16,7 +16,7 @@ Hexo theme: Apollo
 
 Run this command from inside your hexo project
 ``` bash
-$ git clone git@github.com:joyceim/hexo-theme-apollo.git themes/apollo
+$ git clone git@github.com:foreverhy/hexo-theme-apollo.git themes/apollo
 ```
 
 **Apollo requires Hexo 2.4 and above.**
