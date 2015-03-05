@@ -4,7 +4,7 @@ Hexo theme: Apollo
 **This hexo theme is modified from SANOGRAPHIX.NET**
 
 [Original](https://github.com/sanographix/tumblr/tree/master/apollo) (Tumblr theme)  
-[Demo](http://joyceim.github.io/hexo-theme-apollo)
+[Demo](http://verihy.info)
 
 + 添加了duoshuo，并且将评论框从正文左侧移到了下方
 + 添加了Mathjax，可以在markdown中输入LaTeX公式
